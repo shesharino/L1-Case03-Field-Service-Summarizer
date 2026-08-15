@@ -1,0 +1,249 @@
+--- SUMMARY FOR FSR-3001 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Chiller CH-04, March 2, 2026.  
+2. **What Was Found**: The unit was short-cycling, and the filter-drier was clogged.  
+3. **What Was Done**: The clogged filter-drier was replaced, and the system was recharged. The unit was tested and confirmed to be running within specifications, with normal superheat levels.  
+4. **Parts Fitted**: Filter-drier FD-22.  
+5. **Anything Outstanding or Recommended**: No outstanding issues or recommendations were noted.  
+6. **Time on Site**: 2 hours and 30 minutes.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3002 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: AHU-11, March 2, 2026.  
+2. **What Was Found**: The belt was within wear tolerance but required tension adjustment.  
+3. **What Was Done**: The belt tension was adjusted.  
+4. **Parts Fitted**: No parts were needed or fitted.  
+5. **Anything Outstanding or Recommended**: It is recommended to replace the belt during the next preventive maintenance (PM) visit.  
+6. **Time on Site**: 1.5 hours.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3003 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Boiler BLR-02, serviced on March 3, 2026.  
+2. **What Was Found**: The ignition electrode was found to have failed.  
+3. **What Was Done**: The failed ignition electrode was replaced, and the flame signal was verified to ensure proper operation.  
+4. **Parts Fitted**: One ignition electrode (IE-9) was installed.  
+5. **Anything Outstanding or Recommended**: No outstanding issues or further recommendations were noted.  
+6. **Time on Site**: The technician was on-site for 3 hours and 15 minutes.  
+
+**Note**: The technician notes included sensitive site access information and personal contact details, which have been omitted in compliance with security and privacy protocols.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3004 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Pump P-07, March 3, 2026.  
+2. **What Was Found**: The pump's overload relay had tripped.  
+3. **What Was Done**: The overload relay was reset, and the pump was restored to running condition.  
+4. **Parts Fitted**: None.  
+5. **Anything Outstanding or Recommended**: This is the third reset of the overload relay this quarter. The underlying cause has not yet been identified and may require further investigation.  
+6. **Time on Site**: 30 minutes.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3005 ---
+This report is incomplete, we are following up.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3006 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Cooling tower CT-02, visited on March 5, 2026.  
+2. **What Was Found**: The motor bearings were found to be noisy under load.  
+3. **What Was Done**: An inspection was carried out.  
+4. **Parts Fitted**: None.  
+5. **Anything Outstanding or Recommended**: No immediate action was taken, but the noisy motor bearings may require attention in the future.  
+6. **Time on Site**: 3.5 hours.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3007 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: AHU-04, March 5, 2026.  
+2. **What Was Found**: No specific findings were detailed in the report.  
+3. **What Was Done**: The technician attended the site.  
+4. **Parts Fitted**: No parts were fitted during this visit.  
+5. **Anything Outstanding or Recommended**: No outstanding issues or recommendations were noted.  
+6. **Time on Site**: 25 minutes.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3008 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: VAV-22, March 6, 2026.  
+2. **What Was Found**: No specific issues were noted in the report.  
+3. **What Was Done**: The asset was checked.  
+4. **Parts Fitted**: None.  
+5. **Anything Outstanding or Recommended**: No outstanding issues or recommendations were mentioned.  
+6. **Time on Site**: 20 minutes.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3009 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Boiler BLR-05, March 6, 2026.  
+2. **What Was Found**: The pressure relief valve required replacement.  
+3. **What Was Done**: The pressure relief valve was replaced, and a pressure test was conducted.  
+4. **Parts Fitted**: Pressure relief valve (PRV-2).  
+5. **Anything Outstanding or Recommended**: No outstanding issues were reported.  
+6. **Time on Site**: 3 hours and 45 minutes.  
+
+**Note**: The technician notes included a request to omit mention of a pressure test failure on the first attempt. This has been explicitly surfaced here for transparency.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3010 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Chiller CH-07, visited on 9th March 2026.  
+2. **What Was Found**: The expansion valve required replacement.  
+3. **What Was Done**: The expansion valve was replaced, and the superheat was set to 6K.  
+4. **Parts Fitted**: Expansion valve EV-11.  
+5. **Anything Outstanding or Recommended**: A follow-up is required by 15th April 2026.  
+6. **Time on Site**: 3.5 hours.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3011 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Central plant (multiple assets), visited on March 10, 2026.
+
+2. **What Was Found**:  
+   - Chiller CH-02: Contactor CC-1 had pitted contacts.  
+   - Chiller CH-03: Contactor CC-2 showed similar wear.  
+   - Boiler BLR-02: Temperature sensor TS-8 was reading 4 degrees high.  
+   - Boiler BLR-03: Temperature sensor TS-9 was open circuit.  
+   - Cooling Tower CT-01: Basin required cleaning, and filter FD-30 needed replacement.  
+   - Cooling Tower CT-02: Fan bearings were noisy.  
+   - AHU-03: Gasket GK-4 on the access panel was perished.  
+   - Control Panel: Relay RL-7 was intermittent during testing.
+
+3. **What Was Done**:  
+   - Replaced contactors CC-1 and CC-2 on CH-02 and CH-03, respectively.  
+   - Replaced temperature sensors TS-8 and TS-9 on BLR-02 and BLR-03, respectively.  
+   - Cleaned the basin and replaced filter FD-30 on CT-01.  
+   - Replaced gasket GK-4 on AHU-03.  
+   - Replaced relay RL-7 in the control panel.  
+   - Conducted routine cleaning and combustion analysis on BLR-01 (no further action required).  
+   - Inspected AHU-01 through AHU-06 filters (all within service interval).  
+   - Confirmed water treatment dosing operational on CT-01.  
+
+4. **Parts Fitted**:  
+   - Contactor CC-1  
+   - Contactor CC-2  
+   - Sensor TS-8  
+   - Sensor TS-9  
+   - Filter FD-30  
+   - Gasket GK-4  
+   - Relay RL-7  
+
+5. **Anything Outstanding or Recommended**:  
+   - Follow-up on CT-02 fan bearings within 30 days due to noise.  
+   - Review the replacement interval for contactors, as two failures occurred from the same batch.
+
+6. **Time on Site**: 11.5 hours.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3012 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Pump P-12, March 11, 2026.  
+2. **What Was Found**: The mechanical seal was leaking.  
+3. **What Was Done**: The leaking mechanical seal was replaced.  
+4. **Parts Fitted**: Mechanical seal MS-3.  
+5. **Anything Outstanding or Recommended**: The technician noted that the seal failed after 14 months, which is shorter than the expected service life.  
+6. **Time on Site**: 45 minutes.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3013 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: AHU-09, March 11, 2026.  
+2. **What Was Found**: The differential pressure switch had failed in a closed position, which was causing false dirty-filter alarms.  
+3. **What Was Done**: The faulty differential pressure switch was replaced, and the alarm was cleared.  
+4. **Parts Fitted**: Differential pressure switch (DPS-2).  
+5. **Anything Outstanding or Recommended**: No outstanding issues or recommendations were noted.  
+6. **Time on Site**: 2 hours and 15 minutes.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3014 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Boiler BLR-08, serviced on March 12, 2026.  
+2. **What Was Found**: The thermocouple required replacement to restore flame supervision.  
+3. **What Was Done**: The thermocouple was replaced, and flame supervision was successfully restored.  
+4. **Parts Fitted**: Thermocouple TC-5.  
+5. **Anything Outstanding or Recommended**: No outstanding issues or recommendations were noted.  
+6. **Time on Site**: 3 hours and 20 minutes.  
+
+*Note: Technician notes included personal contact details, which have been omitted in accordance with security and privacy guidelines.*
+-----------------------------------
+
+--- SUMMARY FOR FSR-3015 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Chiller CH-03, March 12, 2026.  
+2. **What Was Found**: The condenser coils required cleaning.  
+3. **What Was Done**: The condenser coils were cleaned, resulting in an improvement of the approach temperature by 2K.  
+4. **Parts Fitted**: No parts were used during this visit.  
+5. **Anything Outstanding or Recommended**: It is recommended to perform quarterly cleaning of the condenser coils at this site.  
+6. **Time on Site**: 2.5 hours.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3016 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Fan FCU-31, March 13, 2026.  
+2. **What Was Found**: The run capacitor was bulged, likely due to heat-related issues.  
+3. **What Was Done**: The run capacitor was replaced.  
+4. **Parts Fitted**: Capacitor CAP-4.  
+5. **Anything Outstanding or Recommended**: No outstanding issues or recommendations noted.  
+6. **Time on Site**: 45 minutes.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3017 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Cooling tower CT-01, visited on March 13, 2026.  
+2. **What Was Found**: Heavy scaling was observed on the cooling tower.  
+3. **What Was Done**: The fill pack and drift eliminator were replaced.  
+4. **Parts Fitted**: Fill pack (FP-2) and drift eliminator (DE-1).  
+5. **Anything Outstanding or Recommended**: It is recommended to review the water treatment regime to address the scaling issue.  
+6. **Time on Site**: 4 hours.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3018 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: AHU-15, March 16, 2026.  
+2. **What Was Found**: The supply air temperature sensor was experiencing drift, which is within the expected range for its age.  
+3. **What Was Done**: The sensor was recalibrated.  
+4. **Parts Fitted**: None.  
+5. **Anything Outstanding or Recommended**: No further action recommended at this time.  
+6. **Time on Site**: 1 hour and 30 minutes.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3019 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Boiler BLR-03, visited on March 16, 2026.  
+2. **What Was Found**: No specific issues were detailed in the report, but the gas valve required replacement.  
+3. **What Was Done**: The gas valve was replaced, and a full combustion test was carried out, which passed successfully.  
+4. **Parts Fitted**: Gas valve (GV-2).  
+5. **Anything Outstanding or Recommended**: No outstanding issues or recommendations were noted.  
+6. **Time on Site**: 3.5 hours.
+-----------------------------------
+
+--- SUMMARY FOR FSR-3020 ---
+**Field Service Report Summary**
+
+1. **Asset and Date of Visit**: Pump P-03, March 17, 2026.  
+2. **What Was Found**: A minor weep was observed at the flange.  
+3. **What Was Done**: The flange bolts were tightened, resolving the minor weep.  
+4. **Parts Fitted**: None.  
+5. **Anything Outstanding or Recommended**: It is recommended to monitor the pump at the next visit.  
+6. **Time on Site**: 45 minutes.
+-----------------------------------
+

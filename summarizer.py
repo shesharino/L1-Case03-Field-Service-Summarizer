@@ -1,17 +1,13 @@
 import json
 import os
 from datetime import datetime
-from openai import OpenAI
+from portkey_ai import Portkey
 
 # Initialize the OpenAI client routed through Portkey for observability
-# Ensure OPENAI_API_KEY and PORTKEY_API_KEY are set in your environment
-client = OpenAI(
-    api_key=os.environ.get("OPENAI_API_KEY"),
-    base_url="https://api.portkey.ai/v1",
-    default_headers={
-        "x-portkey-api-key": os.environ.get("PORTKEY_API_KEY"),
-        "x-portkey-provider": "openai"
-    }
+# Ensure PORTKEY_API_KEY is set in your environment
+client = Portkey(
+  api_key=os.environ.get("PORTKEY_API_KEY"),
+  base_url="https://portkeygateway.perficient.com/v1"
 )
 
 SYSTEM_PROMPT = """You are a Field Service Report Summarizer. Your output is published directly to a customer portal for the client's facilities contact.
@@ -82,11 +78,12 @@ def generate_summary(report: dict) -> str:
 
     try:
         response = client.chat.completions.create(
-            model="gpt-4o", # Documented model choice
+            model="@azure-openai/gpt-4o", # Documented model choice
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": user_prompt}
             ],
+            max_tokens=512,
             temperature=0.0 # Zero temperature for strict, factual extraction without hallucination
         )
         return response.choices[0].message.content.strip()
